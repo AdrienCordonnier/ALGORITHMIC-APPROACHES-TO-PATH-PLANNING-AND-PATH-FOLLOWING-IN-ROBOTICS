@@ -124,3 +124,6 @@ We explore motion control techniques such as PID control to ensure accurate and 
 This section provides a detailed explanation of how to implement and test the motion controller in ROS 2.
 
 
+https://github.com/user-attachments/assets/a6cec272-e457-4552-a05e-8a93516d287d
+
+
