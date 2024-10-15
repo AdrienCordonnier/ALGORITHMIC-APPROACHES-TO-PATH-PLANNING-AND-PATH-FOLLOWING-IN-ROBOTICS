@@ -75,7 +75,9 @@ A sample image of the environment map generated in the previous section, used as
 
 ### C. RTT Algorithm
 We implement the RTT algorithm to generate an initial path. The code and explanation of how the algorithm works are provided.
-![image](https://github.com/user-attachments/assets/a7bb7009-bdbd-4c82-a712-93d45ea9aa8e)
+
+![image](https://github.com/user-attachments/assets/bbda1b0b-6641-4fea-b74e-453076f179ed)
+
 
 <a name="d-path-reduction"/>
 
